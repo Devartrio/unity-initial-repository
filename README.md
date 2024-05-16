@@ -5,10 +5,10 @@
 This is a basic Unity project repository template for starting new Unity projects. It includes some basic assets, packages, and project structure that can be used as a starting point for new projects.
 
 ## Features
-1. [Basic project structure](##Folder Structure)
-2. [Basic packages](###Package)
+1. [Basic project structure](##folder-structure)
+2. [Basic packages](###package)
    1. [x] [TextMeshPro](TextMeshPro_url) - 3.0.8
-3. [Basic assets](###Assets) 
+3. [Basic assets](###assets) 
    1. [x] [Dotween](Dotween_url) - 1.2.765
 
 
