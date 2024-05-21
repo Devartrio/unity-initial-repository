@@ -5,11 +5,11 @@
 This is a basic Unity project repository template for starting new Unity projects. It includes some basic assets, packages, and project structure that can be used as a starting point for new projects.
 
 ## Features
-1. [Basic project structure](##folder-structure)
-2. [Basic packages](###package)
-   1. [x] [TextMeshPro](TextMeshPro_url) - 3.0.8
-3. [Basic assets](###assets) 
-   1. [x] [Dotween](Dotween_url) - 1.2.765
+1. [Basic project structure](#folder-structure)
+2. [Basic packages](#package)
+   1. [x] [TextMeshPro][TextMeshPro_url] - 3.0.8
+3. [Basic assets](#assets) 
+   1. [x] [Dotween][Dotween_url] - 1.2.765
 
 
 ## Usage
@@ -52,12 +52,12 @@ Unity Required Folders:
 3. .editorconfig - This file is used to define and maintain consistent coding styles between different editors and IDEs. It is read by EditorConfig plugins to apply the coding styles specified within it.
 
 ### Package
-1. [TextMeshPro](TextMeshPro_url) - 3.0.8
+1. [TextMeshPro][TextMeshPro_url] - 3.0.8
 
 ### Assets
-1. [Dotween](Dotween_url) - 1.2.765
+1. [Dotween][Dotween_url] - 1.2.765
 
 
 <!--- Reference Links -->
-[TextMeshPro_url]: https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.0/manual/index.html
+[TextMeshPro_url]: https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.0/manual/index.html{:target="_blank"}
 [Dotween_url]: https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416
