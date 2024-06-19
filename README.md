@@ -8,6 +8,7 @@ This is a basic Unity project repository template for starting new Unity project
 1. [Basic project structure](#folder-structure)
 2. [Basic packages](#package)
    1. [x] [TextMeshPro][TextMeshPro_url] - 3.0.8
+   2. [x] [UniTask][UniTask_url] - 2.5.4
 3. [Basic assets](#assets) 
    1. [x] [Dotween][Dotween_url] - 1.2.765
 
@@ -53,6 +54,7 @@ Unity Required Folders:
 
 ### Package
 1. [TextMeshPro][TextMeshPro_url] - 3.0.8
+2. [UniTask][UniTask_url] - 2.5.4
 
 ### Assets
 1. [Dotween][Dotween_url] - 1.2.765
@@ -61,3 +63,4 @@ Unity Required Folders:
 <!--- Reference Links -->
 [TextMeshPro_url]: https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.0/manual/index.html{:target="_blank"}
 [Dotween_url]: https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416
+[UniTask_url]: https://github.com/Cysharp/UniTask
