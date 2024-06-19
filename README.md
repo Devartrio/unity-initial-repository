@@ -7,8 +7,8 @@ This is a basic Unity project repository template for starting new Unity project
 ## Features
 1. [Basic project structure](#folder-structure)
 2. [Basic packages](#package)
-   1. [x] [TextMeshPro][TextMeshPro_url] - 3.0.8
-   2. [x] [UniTask][UniTask_url] - 2.5.4
+   1. [x] [TextMeshPro](#textmeshprotextmeshpro_url---308) - 3.0.8
+   2. [x] [UniTask](#unitaskunitask_url---254-package2) - 2.5.4
 3. [Basic assets](#assets) 
    1. [x] [Dotween][Dotween_url] - 1.2.765
 
@@ -53,11 +53,11 @@ Unity Required Folders:
 3. .editorconfig - This file is used to define and maintain consistent coding styles between different editors and IDEs. It is read by EditorConfig plugins to apply the coding styles specified within it.
 
 ### Package
-1. [TextMeshPro][TextMeshPro_url] - 3.0.8
-2. [UniTask][UniTask_url] - 2.5.4
+#### [TextMeshPro][TextMeshPro_url] - 3.0.8
+#### [UniTask][UniTask_url] - 2.5.4
 
 ### Assets
-1. [Dotween][Dotween_url] - 1.2.765
+#### [Dotween][Dotween_url] - 1.2.765
 
 
 <!--- Reference Links -->
